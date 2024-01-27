@@ -1,0 +1,48 @@
+
+Topics:
+  Iterating object:
+    Object or Dictionary ( data storing variable ) 
+      key <-> value pair
+        {
+          name: 'Sanjay',
+          role: 'Developer',
+          desgination: 'Software Engineer'
+        }
+
+  Series Problems:
+    print first 5 even numbers
+
+      2 4 6 8 10
+
+  Fibonacci Series:
+    0 1 1 2 3 5 8 13 21 34
+
+    Print first five Fibonacci numbers:
+
+    0 1 1 2 3
+
+    0
+    1
+    1
+    2
+    3
+  
+  Array Problems - Basic Algorithms
+    1. Searching
+    2. Sum Of Arrays
+    3. Largest of an array
+    4. Smallest of an array
+
+Task:
+
+  Completed all the problems in below topics:
+    1. Input / Output
+    2. Absolute Beginner
+
+Next Session:
+
+  Recursion
+    
+  Mapping Logics:
+
+    using a object to solve the problem
